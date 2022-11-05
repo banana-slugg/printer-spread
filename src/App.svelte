@@ -1,5 +1,4 @@
 <script lang="ts">
-    import svelteLogo from "./assets/svelte.svg";
     import Spread from "./lib/Spread.svelte";
 </script>
 
